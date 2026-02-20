@@ -1,5 +1,5 @@
 # 💫Olá:
-Meu nome é Leonam, formado em ADS e atualmente trabalho de front-end
+Meu nome é Leonam, formado em ADS e atualmente trabalho de dev front-end
 
 
 
