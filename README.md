@@ -10,10 +10,12 @@ Meu nome é Leonam, formado em ADS e atualmente trabalho de dev front-end
 #
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=leonamlucius&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=leonamlucius&theme=discord_old_blurple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonamlucius&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leonamlucius&icon=0&color=0)](https://visitcount.itsvg.in)
